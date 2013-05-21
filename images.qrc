@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image_folder/background.jpg</file>
+        <file>image_folder/icon.ico</file>
+        <file>image_folder/icon.png</file>
+        <file>image_folder/smaller_ico.ico</file>
+        <file>image_folder/smaller_icon.ico</file>
+        <file>image_folder/Tempest3K.jpg</file>
+        <file>image_folder/transparent.png</file>
+    </qresource>
+</RCC>
